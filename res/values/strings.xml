@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JavaMailSenderUtil</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tv_usr_name">User name</string>
+    <string name="tv_usr_pass">Pass</string>
+    <string name="tv_to_addresses">To: (use \';\' to separate addresses)</string>
+    <string name="tv_text_content">Content</string>
+    <string name="btn_send">Send</string>
+    <string name="tv_subject">Subject</string>
+    <string name="tv_sending_mail">Sending mail…</string>
+
+</resources>
