@@ -13,9 +13,9 @@ JavaMailSenderUtil uses the javamail-android library.
 This library is based on the opensourced version of JavaMail and activation (JAF) available in the glassfish repository, and some parts of Apache Harmony's opensource implementation of AWT.
 It is made up of 3 jars (additionnal.jar, mail.jar, activation.jar)
 
-The source code is available under same licenses as JavaMail which is:
+The source code is available under same licenses as JavaMail which are:
 - CDDL-1.0
 - GPL-2.0
 - BSD
 
-You can download the used jars, see sources and  the license term at https://code.google.com/p/javamail-android/
+You can download the used jars, see sources and the license term at https://code.google.com/p/javamail-android/
